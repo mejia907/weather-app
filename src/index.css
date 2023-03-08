@@ -1,5 +1,5 @@
 body{
-  background-image: url('src/assets/wallpaper.jpeg');
+  background-image: url('/wallpaper.jpeg');
   background-repeat: no-repeat;
   background-size:cover;
   overflow:hidden;
