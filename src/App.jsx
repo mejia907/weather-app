@@ -43,7 +43,7 @@ const CssTextField = styled(TextField)({
   },
 });
 
-const API_WEATHER = `${import.meta.env.VITE_API_URL}?key=${import.meta.env.VITE_API_KEY}&q=`
+const API_WEATHER = `${import.meta.env.VITE_VERCEL_API_URL}?key=${import.meta.env.VITE_VERCEL_API_KEY}&q=`
 
 function App() {
 
